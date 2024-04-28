@@ -1,0 +1,10 @@
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\bin\Debug\Web_Browser08.exe.config
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\bin\Debug\Web_Browser08.exe
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\bin\Debug\Web_Browser08.pdb
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.Form1.resources
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.Properties.Resources.resources
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.csproj.GenerateResource.cache
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.exe
+C:\Users\Korisnik\source\repos\Web_Browser08\Web_Browser08\obj\Debug\Web_Browser08.pdb
